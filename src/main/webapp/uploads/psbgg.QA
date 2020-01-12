@@ -1,0 +1,287 @@
+0016AZD0000000001*100111NUDOSSNUDOSS                        INTEGER  I000100018R0000
+0016AZD0000000001*100211CDSOC CDSOC                         CHAR     X000030028R0000
+0016AZD0000000001*100311PGPDOSPGPDOS                        INTEGER  I000100031R0000
+0016AZD0000000001*100411TEVEROTEVERO                        CHAR     X000010041R0000
+0016AZD0000000001*100511TIVERRTIVERR                        TIMESTAMPX000190042R0000
+0016AZD0000000001*100611TIMJDOTIMJDO                        TIMESTAMPH000190061R0000
+0016AZD0000000001*100711VACDSTVACDST                        CHAR     X000030080R0000
+0016AZD0000000001*100811TITRANTITRAN                        TIMESTAMPH000190083R0000
+0016AZD0000000001*100911USERIDUSERID                        CHAR     X000250102R0000
+0016AZD0000000001*101011ROLMODROLMOD                        CHAR     X000200127R0000
+0016AZD0000000001*101111ROLVALROLVAL                        CHAR     X000640147R0000
+0016AZD0000000001*101211ATTRI1ATTRI1                        CHAR     X000080211R0000
+0016AZD0000000001*101311ATTRI2ATTRI2                        CHAR     X000080219R0000
+0016AZD0000000001*101411ATTRI3ATTRI3                        CHAR     X000080227R0000
+0016AZD0000000001*101511ATTRI4ATTRI4                        CHAR     X000200235R0000
+0016AZD0000000001*101611ATTRI5ATTRI5                        CHAR     X000200255R0000
+0016AZD0000000001*101711ROWNERROWNER                        CHAR     X000250275R0000
+0016AZD0000000001*200112NUDOSSNUDOSS                        INTEGER  I000100018R0000
+0016AZD0000000001*200212PGPDOSPGPDOS                        INTEGER  I000100028R0000
+0016AZD0000000001*200312CDINFOCDINFO                        CHAR     X000020038R0000
+0016AZD0000000001*200412TIMJIFTIMJIF                        TIMESTAMPH000190040R0000
+0016AZD0000000001*200512TEVEROTEVERO                        CHAR     X000010059R0000
+0016AZD0000000001*200612NOMBRENOMBRE                        INTEGER  I000060060R0000
+0016AZD0000000001*200712NULMAXNULMAX                        INTEGER  I000070066R0000
+0016AZD0000000001*200812NUCMAXNUCMAX                        INTEGER  I000070073R0000
+0016AZD0000000001*700107CDSTDOCDSTDO                        CHAR     X000020018R0000
+0016AZD0000000001*700207VACDSTVACDST                        CHAR     X000030020R0000
+0016AZD0000000001*700307TIANNUTIANNU                        TIMESTAMPH000190023R0000
+0016AZD0000000001*700407TIMODITIMODI                        TIMESTAMPH000190042R0000
+0016AZD00000000000000100NUDOSSNUDOSS                        INTEGER  I000100018R0000
+0016AZD00000000000000200SOCDOSSOCDOS                        CHAR     X000030028R0000
+0016AZD00000000000000300PGPDOSPGPDOS                        INTEGER  I000100031R0000
+0016AZD00000000000000400CDREGLCDREGL                        CHAR     X000030041R1100
+0016AZD00000000000000500CDSTCOCDSTCO                        CHAR     X000030044R1010
+0016AZD00000000000000600CDCODECDCODE                        CHAR     X000150047R1000
+0016AZD00000000000000700TEREGXTEREGX                        CHAR     X000010062R0000
+0016AZD00000000000000800CDRG01CDRG01                        CHAR     X000030063R0000
+0016AZD00000000000000900CDRG02CDRG02                        CHAR     X000030066R0000
+0016AZD00000000000001000CDRG03CDRG03                        CHAR     X000030069R0000
+0016AZD00000000000001100CDRG04CDRG04                        CHAR     X000030072R0000
+0016AZD00000000000001200CDRG05CDRG05                        CHAR     X000030075R0000
+0016AZD00000000000001300CDRG06CDRG06                        CHAR     X000030078R0000
+0016AZD00000000000001400CDRG07CDRG07                        CHAR     X000030081R0000
+0016AZD00000000000001500CDRG08CDRG08                        CHAR     X000030084R0000
+0016AZD00000000000001600CDRG09CDRG09                        CHAR     X000030087R0000
+0016AZD00000000000001700CDRG10CDRG10                        CHAR     X000030090R0000
+0016AZD00000000000001800DTDVA DTDVA                         DATE     Q000100093R0000
+0016AZD00000000000001900DTFVA DTFVA                         DATE     Q000100103R0000
+0016AZD00000000000002000IDGPRGIDGPRG                        INTEGER  I000100113R0Q00
+0025DZD000024184000000+000024184FRC+000500000FRCDSJMAT            A                              0001-01-012999-12-31+000500000X
+0067DZD0000241841*1000+000024184FRC+00050000000001-01-01-00.00.002013-06-06-14.38.06DSJ0001-01-01-00.00.00                                                                                                                                                                                                      X
+0017DZD0000241841*2000+000024184+000500000002013-06-06-14.38.060+00001+000000+000000X
+0016AZD00000000010100101NUDOSSNUDOSS                        INTEGER  I000100018R0000
+0016AZD00000000010100201CDLANGCDLANG                        CHAR     X000010028R0000
+0016AZD00000000010100301NULIGNNULIGN                        INTEGER  I000070029R0000
+0016AZD00000000010100401SOCDOSSOCDOS                        CHAR     X000030036R0000
+0016AZD00000000010100501PGPDOSPGPDOS                        INTEGER  I000100039R0000
+0016AZD00000000010100601LIBLONLIBLON                        CHAR     Y000450049R0000
+0016AZD00000000010100701LIBABRLIBABR                        CHAR     Y000180094R0000
+0016AZD00000000010100801LBCMP1LBCMP1                        CHAR     Y002540112R0000
+0016AZD00000000010100901LBCMP2LBCMP2                        CHAR     Y002540366R0000
+0016AZD00000000010101001LBCMP3LBCMP3                        CHAR     Y002540620R0000
+0016AZD00000000010101101BLOB01BLOB01                        CHAR     X000010874R0000
+0176DZD000024184101000+000024184F+000001FRC+000500000Maternité                                    Maternité                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    X
+0017DZD0000241841*2000+000024184+000500000012013-06-06-14.38.060+00001+000001+000001X
+0016AZD00000000010E0010ENUDOSSNUDOSS                        INTEGER  I000100018R0000
+0016AZD00000000010E0020ENULIGNNULIGN                        INTEGER  I000070028R0000
+0016AZD00000000010E0030ENULIGSNULIGS                        INTEGER  I000070035R0000
+0016AZD00000000010E0040ENULIGPNULIGP                        INTEGER  I000070042R0000
+0016AZD00000000010E0050ETEACTITEACTI                        CHAR     X000010049R0000
+0016AZD00000000010E0060ESOCDOSSOCDOS                        CHAR     X000030050R0000
+0016AZD00000000010E0070EPGPDOSPGPDOS                        INTEGER  I000100053R0000
+0016AZD00000000010E0080ECDPAYSCDPAYS                        CHAR     X000030063R1000
+0016AZD00000000010E0090ECDETATCDETAT                        CHAR     X000020066R1000
+0016AZD00000000010E0100EDATXXXDATXXX                        DATE     Q000100068R0000
+0016AZD00000000010E0110EDTEF00DTEF00                        DATE     Q000100078R1000
+0016AZD00000000010E0120ECDLOCACDLOCA                        CHAR     X000500088R0000
+0028DZD00002418410E000+000024184+000001+000000+0000003FRC+000500000FRACM2999-12-310001-01-01MAT                                               X
+0017DZD0000241841*2000+000024184+0005000000E2013-06-06-14.38.060+00001+000001+000001X
+0016AZD00000000012R0012RNUDOSSNUDOSS                        INTEGER  I000100018R0000
+0016AZD00000000012R0022RSOCDOSSOCDOS                        CHAR     X000030028R0000
+0016AZD00000000012R0032RPGPDOSPGPDOS                        INTEGER  I000100031R0000
+0016AZD00000000012R0042RIDPO01IDPO01                        CHAR     X000080041R0000
+0016AZD00000000012R0052RIDPO02IDPO02                        CHAR     X000020049R0000
+0016AZD00000000012R0062RFLSLCTFLSLCT                        CHAR     X000010051R0000
+0016AZD00000000012R0072RFLSHOWFLSHOW                        CHAR     X000010052R0000
+0016AZD00000000012R0082RFLCANCFLCANC                        CHAR     X000010053R0000
+0016AZD00000000012R0092RFLRETRFLRETR                        CHAR     X000010054R0000
+0016AZD00000000012R0102RFLMDHRFLMDHR                        CHAR     X000010055R0000
+0012DZD00002418412R000+000024184FRC+000500000SI        00000X
+0017DZD0000241841*2000+000024184+0005000002R2013-06-06-14.38.060+00001+000000+000000X
+0016AZD00000000019R0019RNUDOSSNUDOSS                        INTEGER  I000100018R0000
+0016AZD00000000019R0029RNULIGNNULIGN                        INTEGER  I000070028R0000
+0016AZD00000000019R0039RSOCDOSSOCDOS                        CHAR     X000030035R0000
+0016AZD00000000019R0049RPGPDOSPGPDOS                        INTEGER  I000100038R0000
+0016AZD00000000019R0059RCDSTDFCDSTDF                        CHAR     X000020048R1000
+0016AZD00000000019R0069RIDOBJFIDOBJF                        CHAR     X002000050R1000
+0016AZD00000000019R0079RTYATCHTYATCH                        CHAR     X000010250R1000
+0016AZD00000000019R0089RCDSTDICDSTDI                        CHAR     X000020251R0000
+0016AZD00000000019R0099RIDGPRFIDGPRF                        INTEGER  I000100253R0000
+0016AZD00000000019R0109RTYOBJITYOBJI                        CHAR     X000500263R0000
+0016AZD00000000019R0119RTYOBJFTYOBJF                        CHAR     X000500313R0000
+0016AZD00000000019R0129RNATREFNATREF                        CHAR     X000010363R0000
+0016AZD00000000019R0139RTYPREFTYPREF                        CHAR     X000010364R0000
+0074DZD00002418419R000+000024184+000001FRC+000500000ZDFDP|DRA|MT                                                                                                                                                                                               ZD+000000000TAbsenceFrance                                    TPayrollProfile                                   IAX
+0074DZD00002418419R000+000024184+000018FRC+000500000ZDFDP|DRC|EJR                                                                                                                                                                                              ZD+000000000TAbsenceFrance                                    TPayrollItem                                      IAX
+0074DZD00002418419R000+000024184+000003FRC+000500000ZDFDP|DRC|EJS                                                                                                                                                                                              ZD+000000000TAbsenceFrance                                    TPayrollItem                                      IAX
+0074DZD00002418419R000+000024184+000046FRC+000500000ZDFDP|DRC|EJT                                                                                                                                                                                              ZD+000000000TAbsenceFrance                                    TPayrollItem                                      IAX
+0074DZD00002418419R000+000024184+000032FRC+000500000ZDFDP|DRC|EM6                                                                                                                                                                                              ZD+000000000TAbsenceFrance                                    TPayrollItem                                      IAX
+0074DZD00002418419R000+000024184+000005FRC+000500000ZDFDP|DRC|EMT                                                                                                                                                                                              ZD+000000000TAbsenceFrance                                    TPayrollItem                                      IAX
+0074DZD00002418419R000+000024184+000042FRC+000500000ZDFDP|DRC|ESR                                                                                                                                                                                              ZD+000000000TAbsenceFrance                                    TPayrollItem                                      IAX
+0074DZD00002418419R000+000024184+000037FRC+000500000ZDFDP|DRC|HAS                                                                                                                                                                                              ZD+000000000TAbsenceFrance                                    TPayrollItem                                      IAX
+0074DZD00002418419R000+000024184+000034FRC+000500000ZDFDP|DRC|HSS                                                                                                                                                                                              ZD+000000000TAbsenceFrance                                    TPayrollItem                                      IAX
+0074DZD00002418419R000+000024184+000006FRC+000500000ZDFDP|DRC|IGO                                                                                                                                                                                              ZD+000000000TAbsenceFrance                                    TPayrollItem                                      IAX
+0074DZD00002418419R000+000024184+000007FRC+000500000ZDFDP|DRC|IST                                                                                                                                                                                              ZD+000000000TAbsenceFrance                                    TPayrollItem                                      IAX
+0074DZD00002418419R000+000024184+000008FRC+000500000ZDFDP|DRC|K1T                                                                                                                                                                                              ZD+000000000TAbsenceFrance                                    TPayrollItem                                      IAX
+0074DZD00002418419R000+000024184+000021FRC+000500000ZDFDP|DRC|NBT                                                                                                                                                                                              ZD+000000000TAbsenceFrance                                    TPayrollItem                                      IAX
+0074DZD00002418419R000+000024184+000009FRC+000500000ZDFDP|DRC|NHT                                                                                                                                                                                              ZD+000000000TAbsenceFrance                                    TPayrollItem                                      IAX
+0074DZD00002418419R000+000024184+000041FRC+000500000ZDFDP|DRC|NJD                                                                                                                                                                                              ZD+000000000TAbsenceFrance                                    TPayrollItem                                      IAX
+0074DZD00002418419R000+000024184+000010FRC+000500000ZDFDP|DRC|NJT                                                                                                                                                                                              ZD+000000000TAbsenceFrance                                    TPayrollItem                                      IAX
+0074DZD00002418419R000+000024184+000038FRC+000500000ZDFDP|DRC|NRD                                                                                                                                                                                              ZD+000000000TAbsenceFrance                                    TPayrollItem                                      IAX
+0074DZD00002418419R000+000024184+000027FRC+000500000ZDFDP|DRC|PJ7                                                                                                                                                                                              ZD+000000000TAbsenceFrance                                    TPayrollItem                                      IAX
+0074DZD00002418419R000+000024184+000029FRC+000500000ZDFDP|DRC|PJ8                                                                                                                                                                                              ZD+000000000TAbsenceFrance                                    TPayrollItem                                      IAX
+0074DZD00002418419R000+000024184+000031FRC+000500000ZDFDP|DRC|PJB                                                                                                                                                                                              ZD+000000000TAbsenceFrance                                    TPayrollItem                                      IAX
+0074DZD00002418419R000+000024184+000044FRC+000500000ZDFDP|DRC|PT2                                                                                                                                                                                              ZD+000000000TAbsenceFrance                                    TPayrollItem                                      IAX
+0074DZD00002418419R000+000024184+000022FRC+000500000ZDFDP|DRC|TF5                                                                                                                                                                                              ZD+000000000TAbsenceFrance                                    TPayrollItem                                      IAX
+0074DZD00002418419R000+000024184+000043FRC+000500000ZDFDP|DRC|TJ9                                                                                                                                                                                              ZD+000000000TAbsenceFrance                                    TPayrollItem                                      IAX
+0074DZD00002418419R000+000024184+000045FRC+000500000ZDFDP|DRC|XAE                                                                                                                                                                                              ZD+000000000TAbsenceFrance                                    TPayrollItem                                      IAX
+0074DZD00002418419R000+000024184+000012FRC+000500000ZDFDP|DSB|01                                                                                                                                                                                               ZD+000000000TAbsenceFrance                                    TUnit                                             IAX
+0074DZD00002418419R000+000024184+000030FRC+000500000ZDFDP|DSB|30                                                                                                                                                                                               ZD+000000000TAbsenceFrance                                    TUnit                                             IAX
+0074DZD00002418419R000+000024184+000014FRC+000500000ZDFDP|DSB|89                                                                                                                                                                                               ZD+000000000TAbsenceFrance                                    TUnit                                             IAX
+0074DZD00002418419R000+000024184+000015FRC+000500000ZDFDP|DSB|99                                                                                                                                                                                               ZD+000000000TAbsenceFrance                                    TUnit                                             IAX
+0074DZD00002418419R000+000024184+000019FRC+000500000ZDFDP|GAA|A                                                                                                                                                                                                ZD+000000000TAbsenceFrance                                    THourNaturesGrouping                              IAX
+0074DZD00002418419R000+000024184+000023FRC+000500000ZDFRC|DSF|002                                                                                                                                                                                              ZD+000000000TAbsenceFrance                                    TEntitlement                                      IAX
+0074DZD00002418419R000+000024184+000016FRC+000500000ZDFRC|DSF|005                                                                                                                                                                                              ZD+000000000TAbsenceFrance                                    TEntitlement                                      IAX
+0074DZD00002418419R000+000024184+000024FRC+000500000ZDFRC|DSF|200                                                                                                                                                                                              ZD+000000000TAbsenceFrance                                    TEntitlement                                      IAX
+0074DZD00002418419R000+000024184+000025FRC+000500000ZDFRC|G03|SI                                                                                                                                                                                               ZD+000000000TAbsenceFrance                                    TDisplayGroup                                     IAX
+0074DZD00002418419R000+000024184+000036FRC+000500000ZDHRM|UAO|MATERNITE                                                                                                                                                                                        ZD+000000000TAbsenceFrance                                    TMedicalTest                                      IAX
+0017DZD0000241841*2000+000024184+0005000009R2013-06-06-14.38.060+00034+000046+000036X
+0016AZD0000000001CN001CNNUDOSSNUDOSS                        INTEGER  I000100018R0000
+0016AZD0000000001CN002CNSOCDOSSOCDOS                        CHAR     X000030028R0000
+0016AZD0000000001CN003CNPGPDOSPGPDOS                        INTEGER  I000100031R0000
+0016AZD0000000001CN004CNTEHTRATEHTRA                        CHAR     X000010041R0000
+0016AZD0000000001CN005CNTEGTEMTEGTEM                        CHAR     X000010042R0000
+0016AZD0000000001CN006CNTEE204TEE204                        CHAR     X000010043R0000
+0016AZD0000000001CN007CNPOABBUPOABBU                        CHAR     X000020044R0000
+0016AZD0000000001CN008CNTEMINFTEMINF                        CHAR     X000010046R0000
+0016AZD0000000001CN009CNTEMCONTEMCON                        CHAR     X000010047R0000
+0016AZD0000000001CN010CNUNICONUNICON                        CHAR     X000020048R0000
+0016AZD0000000001CN011CNRUBCONRUBCON                        CHAR     X000030050R0000
+0016AZD0000000001CN012CNPAICONPAICON                        CHAR     X000030053R0000
+0016AZD0000000001CN013CNPAICOPPAICOP                        CHAR     X000030056R0000
+0016AZD0000000001CN014CNPOABB1POABB1                        CHAR     X000010059R0000
+0016AZD0000000001CN015CNTYPABSTYPABS                        CHAR     X000010060R0000
+0016AZD0000000001CN016CNTEMMEDTEMMED                        CHAR     X000010061R0000
+0016AZD0000000001CN017CNFLGCETFLGCET                        CHAR     X000010062R0000
+0016AZD0000000001CN018CNCPTDE1CPTDE1                        CHAR     X000030063R0000
+0016AZD0000000001CN019CNCPTDE2CPTDE2                        CHAR     X000030066R0000
+0016AZD0000000001CN020CNCPTDE3CPTDE3                        CHAR     X000030069R0000
+0016AZD0000000001CN021CNTYOPERTYOPER                        CHAR     X000030072R0000
+0016AZD0000000001CN022CNTEM001TEM001                        CHAR     X000010075R0000
+0016AZD0000000001CN023CNMOTINVMOTINV                        CHAR     X000060076R0000
+0016AZD0000000001CN024CNNUMDRONUMDRO                        CHAR     X000030082R0000
+0016AZD0000000001CN025CNFLGLD FLGLD                         CHAR     X000010085R0000
+0018DZD0000241841CN000+000024184FRC+000500000X  YA               N0             MAT       X
+0017DZD0000241841*2000+000024184+000500000CN2013-06-06-14.38.060+00001+000000+000000X
+0016AZD0000000001CO001CONUDOSSNUDOSS                        INTEGER  I000100018R0000
+0016AZD0000000001CO002CONULIGNNULIGN                        INTEGER  I000070028R0000
+0016AZD0000000001CO003COSOCDOSSOCDOS                        CHAR     X000030035R0000
+0016AZD0000000001CO004COPGPDOSPGPDOS                        INTEGER  I000100038R0000
+0016AZD0000000001CO005CODADEB DADEB                         DATE     Q000100048R1000
+0016AZD0000000001CO006COCDDROICDDROI                        CHAR     X000030058R1000
+0016AZD0000000001CO007COCDUNITCDUNIT                        CHAR     X000020061R1000
+0016AZD0000000001CO008COCDCARECDCARE                        CHAR     X000030063R1000
+0016AZD0000000001CO009COCDRUB1CDRUB1                        CHAR     X000030066R1000
+0016AZD0000000001CO010COCDRUB2CDRUB2                        CHAR     X000030069R1000
+0016AZD0000000001CO011COCDRUB3CDRUB3                        CHAR     X000030072R1000
+0016AZD0000000001CO012COCDRUB4CDRUB4                        CHAR     X000030075R1000
+0016AZD0000000001CO013COCDRUB5CDRUB5                        CHAR     X000030078R1000
+0016AZD0000000001CO014CODAFIN DAFIN                         DATE     Q000100081R0000
+0016AZD0000000001CO015COCGROU1CGROU1                        CHAR     X000020091R0000
+0016AZD0000000001CO016COCDSOUCCDSOUC                        CHAR     X000030093R0000
+0016AZD0000000001CO017COCDSOU1CDSOU1                        CHAR     X000030096R0000
+0016AZD0000000001CO018COCDSOU2CDSOU2                        CHAR     X000030099R0000
+0016AZD0000000001CO019COCDSOU3CDSOU3                        CHAR     X000030102R0000
+0016AZD0000000001CO020COCDSOU4CDSOU4                        CHAR     X000030105R0000
+0016AZD0000000001CO021COCDSOU5CDSOU5                        CHAR     X000030108R0000
+0016AZD0000000001CO022COTESALHTESALH                        CHAR     X000010111R0000
+0016AZD0000000001CO023COTESALMTESALM                        CHAR     X000010112R0000
+0016AZD0000000001CO024COTETRD1TETRD1                        CHAR     X000010113R0000
+0016AZD0000000001CO025COTETRD2TETRD2                        CHAR     X000010114R0000
+0016AZD0000000001CO026COFRSREFFRSREF                        CHAR     X000020115R0000
+0016AZD0000000001CO027CODUSREFDUSREF                        DECIMAL  9000030117R0000
+0016AZD0000000001CO028COCDTRAICDTRAI                        CHAR     X000020120R0000
+0016AZD0000000001CO029COFRSRE2FRSRE2                        CHAR     X000020122R0000
+0016AZD0000000001CO030CODUSRE2DUSRE2                        DECIMAL  9000030124R0000
+0016AZD0000000001CO031COFRSRE3FRSRE3                        CHAR     X000020127R0000
+0016AZD0000000001CO032CODUSRE3DUSRE3                        DECIMAL  9000030129R0000
+0016AZD0000000001CO033COFRSRE4FRSRE4                        CHAR     X000020132R0000
+0016AZD0000000001CO034CODUSRE4DUSRE4                        DECIMAL  9000030134R0000
+0016AZD0000000001CO035COFRSRE5FRSRE5                        CHAR     X000020137R0000
+0016AZD0000000001CO036CODUSRE5DUSRE5                        DECIMAL  9000030139R0000
+0016AZD0000000001CO037COTEDUDPTEDUDP                        CHAR     X000010142R0000
+0016AZD0000000001CO038COFREQUEFREQUE                        CHAR     X000020143R0000
+0030DZD0000241841CO000+000024184+000001FRC+0005000001985-01-01   01   EMT            2999-12-31                          +00    +00  +00  +00  +001  X
+0030DZD0000241841CO000+000024184+000013FRC+0005000001985-01-01   01   NBT            2999-12-31                          +00    +00  +00  +00  +001  X
+0030DZD0000241841CO000+000024184+000004FRC+0005000001985-01-01   89   NJT            2999-12-31                          +00    +00  +00  +00  +001  X
+0030DZD0000241841CO000+000024184+000005FRC+0005000001985-01-01   99   NHT            2999-12-31                          +00    +00  +00  +00  +001  X
+0030DZD0000241841CO000+000024184+000014FRC+0005000001985-01-01   D    TF5            2999-12-31                          +00    +00  +00  +00  +001  X
+0030DZD0000241841CO000+000024184+000002FRC+0005000001985-01-0100201   K1TEM6         2999-12-31                          +00    +00  +00  +00  +001  X
+0030DZD0000241841CO000+000024184+000019FRC+0005000001985-01-0100299      PJB         2999-12-31                          +00    +00  +00  +00  +001  X
+0030DZD0000241841CO000+000024184+000015FRC+0005000001985-01-0120001   K1TEM6         2999-12-31                          +00    +00  +00  +00  +001  X
+0030DZD0000241841CO000+000024184+000009FRC+0005000002000-01-01   D    IGO            2999-12-31                          +00    +00  +00  +00  +001  X
+0030DZD0000241841CO000+000024184+000010FRC+0005000002002-01-0100501   EJS            2010-11-30     IST            X   MT+03    +03  +03  +03  +031  X
+0030DZD0000241841CO000+000024184+000012FRC+0005000002010-12-0100501   EJR            2012-11-30     IST            X   MT+03NI  +03  +03  +03  +031  X
+0030DZD0000241841CO000+000024184+000028FRC+0005000002011-01-01   99   HAS            2999-12-31                          +00    +00  +00  +00  +001  X
+0030DZD0000241841CO000+000024184+000018FRC+0005000002011-01-0100230   PJ7PJ8         2999-12-31                          +00    +00  +00  +00  +001  X
+0030DZD0000241841CO000+000024184+000025FRC+0005000002011-01-0100299      HSS         2999-12-31                          +00    +00  +00  +00  +001  X
+0030DZD0000241841CO000+000024184+000017FRC+0005000002011-01-0120030   PJ7PJ8         2999-12-31                          +00    +00  +00  +00  +001  X
+0030DZD0000241841CO000+000024184+000026FRC+0005000002011-01-0120099      HSS         2999-12-31                          +00    +00  +00  +00  +001  X
+0030DZD0000241841CO000+000024184+000037FRC+0005000002012-01-0100299      PT2         2012-12-31                          +00    +00  +00  +00  +001  X
+0030DZD0000241841CO000+000024184+000036FRC+0005000002012-01-0120099      PT2         2012-12-31                          +00    +00  +00  +00  +001  X
+0030DZD0000241841CO000+000024184+000031FRC+0005000002012-05-01   01   NRD            2999-12-31                          +00    +00  +00  +00  +001  X
+0030DZD0000241841CO000+000024184+000035FRC+0005000002012-12-01   D    TJ9            2999-12-31                    X     +00    +00  +00  +00  +001  X
+0030DZD0000241841CO000+000024184+000032FRC+0005000002012-12-0100501   EJT            2999-12-31     IST            X   MT+03NI  +00  +00  +00  +001  X
+0030DZD0000241841CO000+000024184+000034FRC+0005000002012-12-0100501   ESR            2999-12-31                    X     +00    +00  +00  +00  +001  X
+0030DZD0000241841CO000+000024184+000033FRC+0005000002012-12-0100501   NJD            2999-12-31                    X     +00    +00  +00  +00  +001  X
+0030DZD0000241841CO000+000024184+000038FRC+0005000002013-02-01   01   XAE            2999-12-31                          +00    +00  +00  +00  +001  X
+0017DZD0000241841*2000+000024184+000500000CO2013-06-06-14.38.060+00024+000038+000026X
+0016AZD0000000001F1001F1NUDOSSNUDOSS                        INTEGER  I000100018R0000
+0016AZD0000000001F1002F1SOCDOSSOCDOS                        CHAR     X000030028R0000
+0016AZD0000000001F1003F1PGPDOSPGPDOS                        INTEGER  I000100031R0000
+0016AZD0000000001F1004F1OPT001OPT001                        CHAR     X000010041R0000
+0016AZD0000000001F1005F1OPT002OPT002                        CHAR     X000010042R0000
+0016AZD0000000001F1006F1OPT003OPT003                        CHAR     X000010043R0000
+0016AZD0000000001F1007F1OPT004OPT004                        CHAR     X000010044R0000
+0016AZD0000000001F1008F1OPT005OPT005                        CHAR     X000010045R0000
+0016AZD0000000001F1009F1OPT006OPT006                        CHAR     X000010046R0000
+0016AZD0000000001F1010F1OPT007OPT007                        CHAR     X000010047R0000
+0016AZD0000000001F1011F1OPT008OPT008                        CHAR     X000010048R0000
+0016AZD0000000001F1012F1OPT009OPT009                        CHAR     X000010049R0000
+0016AZD0000000001F1013F1OPT010OPT010                        CHAR     X000010050R0000
+0016AZD0000000001F1014F1CDSIT1CDSIT1                        CHAR     X000010051R0000
+0016AZD0000000001F1015F1CDSIT2CDSIT2                        CHAR     X000010052R0000
+0016AZD0000000001F1016F1DEBS40DEBS40                        CHAR     X000030053R0000
+0016AZD0000000001F1017F1FINS40FINS40                        CHAR     X000030056R0000
+0016AZD0000000001F1018F1MOTS60MOTS60                        CHAR     X000030059R0000
+0016AZD0000000001F1019F1NUMDRONUMDRO                        CHAR     X000030062R0000
+0016AZD0000000001F1020F1REMNETREMNET                        CHAR     X000030065R0000
+0016AZD0000000001F1021F1HEUREMHEUREM                        CHAR     X000030068R0000
+0016AZD0000000001F1022F1IDABVMIDABVM                        CHAR     X000100071R0000
+0016AZD0000000001F1023F1DUABVMDUABVM                        DECIMAL  9000040081R0000
+0016AZD0000000001F1024F1FLGDIFFLGDIF                        CHAR     X000010085R0000
+0018DZD0000241841F1000+000024184FRC+00050000002   000 102      200         MATERNITE +000 X
+0017DZD0000241841*2000+000024184+000500000F12013-06-06-14.38.060+00001+000000+000000X
+0016AZD0000000001G3001G3NUDOSSNUDOSS                        INTEGER  I000100018R0000
+0016AZD0000000001G3002G3SOCDOSSOCDOS                        CHAR     X000030028R0000
+0016AZD0000000001G3003G3PGPDOSPGPDOS                        INTEGER  I000100031R0000
+0016AZD0000000001G3004G3POSIT1POSIT1                        CHAR     X000080041R0000
+0016AZD0000000001G3005G3POSIT2POSIT2                        CHAR     X000020049R0000
+0016AZD0000000001G3006G3FLAG01FLAG01                        CHAR     X000010051R0000
+0016AZD0000000001G3007G3FLAG02FLAG02                        CHAR     X000010052R0000
+0016AZD0000000001G3008G3FLAG03FLAG03                        CHAR     X000010053R0000
+0016AZD0000000001G3009G3FLAG04FLAG04                        CHAR     X000010054R0000
+0016AZD0000000001G3010G3FLAG05FLAG05                        CHAR     X000010055R0000
+0016AZD0000000001G3011G3FLAG06FLAG06                        CHAR     X000010056R0000
+0016AZD0000000001G3012G3FLAG07FLAG07                        CHAR     X000010057R0000
+0016AZD0000000001G3013G3FLAG08FLAG08                        CHAR     X000010058R0000
+0016AZD0000000001G3014G3FLAG09FLAG09                        CHAR     X000010059R0000
+0016AZD0000000001G3015G3FLAG10FLAG10                        CHAR     X000010060R0000
+0013DZD0000241841G3000+000024184FRC+000500000              1     X
+0017DZD0000241841*2000+000024184+000500000G32013-06-06-14.38.060+00001+000000+000000X
+0016AZD0000000001GA001GANUDOSSNUDOSS                        INTEGER  I000100018R0000
+0016AZD0000000001GA002GASOCDOSSOCDOS                        CHAR     X000030028R0000
+0016AZD0000000001GA003GAPGPDOSPGPDOS                        INTEGER  I000100031R0000
+0016AZD0000000001GA004GAPREABSPREABS                        CHAR     X000010041R0000
+0016AZD0000000001GA005GAACTIVIACTIVI                        CHAR     X000030042R0000
+0016AZD0000000001GA006GATEMIMPTEMIMP                        CHAR     X000010045R0000
+0016AZD0000000001GA007GAPOIDS POIDS                         CHAR     X000010046R0000
+0016AZD0000000001GA008GATEMAG TEMAG                         CHAR     X000010047R0000
+0016AZD0000000001GA009GAPINDAYPINDAY                        CHAR     X000010048R0000
+0016AZD0000000001GA010GAFLINCLFLINCL                        CHAR     X000010049R0000
+0016AZD0000000001GA011GAFLGDIVFLGDIV                        CHAR     X000010050R0000
+0016AZD0000000001GA012GAFLPROTFLPROT                        CHAR     X000010051R0000
+0016AZD0000000001GA013GAIMPUTAIMPUTA                        CHAR     X000280052R0000
+0017DZD0000241841GA000+000024184FRC+000500000     AA   0                            X
+0017DZD0000241841*2000+000024184+000500000GA2013-06-06-14.38.060+00001+000000+000000X

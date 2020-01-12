@@ -1,0 +1,395 @@
+AZD0000000001*100111NUDOSSNUDOSS                        INTEGER  I000100018R0000
+AZD0000000001*100211CDSOC CDSOC                         CHAR     X000030028R0000
+AZD0000000001*100311PGPDOSPGPDOS                        INTEGER  I000100031R0000
+AZD0000000001*100411TEVEROTEVERO                        CHAR     X000010041R0000
+AZD0000000001*100511TIVERRTIVERR                        TIMESTAMPX000190042R0000
+AZD0000000001*100611TIMJDOTIMJDO                        TIMESTAMPH000190061R0000
+AZD0000000001*100711VACDSTVACDST                        CHAR     X000030080R0000
+AZD0000000001*100811TITRANTITRAN                        TIMESTAMPH000190083R0000
+AZD0000000001*100911USERIDUSERID                        CHAR     X000250102R0000
+AZD0000000001*101011ROLMODROLMOD                        CHAR     X000200127R0000
+AZD0000000001*101111ROLVALROLVAL                        CHAR     X000640147R0000
+AZD0000000001*101211ATTRI1ATTRI1                        CHAR     X000080211R0000
+AZD0000000001*101311ATTRI2ATTRI2                        CHAR     X000080219R0000
+AZD0000000001*101411ATTRI3ATTRI3                        CHAR     X000080227R0000
+AZD0000000001*101511ATTRI4ATTRI4                        CHAR     X000200235R0000
+AZD0000000001*101611ATTRI5ATTRI5                        CHAR     X000200255R0000
+AZD0000000001*101711ROWNERROWNER                        CHAR     X000250275R0000
+AZD0000000001*200112NUDOSSNUDOSS                        INTEGER  I000100018R0000
+AZD0000000001*200212PGPDOSPGPDOS                        INTEGER  I000100028R0000
+AZD0000000001*200312CDINFOCDINFO                        CHAR     X000020038R0000
+AZD0000000001*200412TIMJIFTIMJIF                        TIMESTAMPH000190040R0000
+AZD0000000001*200512TEVEROTEVERO                        CHAR     X000010059R0000
+AZD0000000001*200612NOMBRENOMBRE                        INTEGER  I000060060R0000
+AZD0000000001*200712NULMAXNULMAX                        INTEGER  I000070066R0000
+AZD0000000001*200812NUCMAXNUCMAX                        INTEGER  I000070073R0000
+AZD0000000001*700107CDSTDOCDSTDO                        CHAR     X000020018R0000
+AZD0000000001*700207VACDSTVACDST                        CHAR     X000030020R0000
+AZD0000000001*700307TIANNUTIANNU                        TIMESTAMPH000190023R0000
+AZD0000000001*700407TIMODITIMODI                        TIMESTAMPH000190042R0000
+AZD00000000000000100NUDOSSNUDOSS                        INTEGER  I000100018R0000
+AZD00000000000000200SOCDOSSOCDOS                        CHAR     X000030028R0000
+AZD00000000000000300PGPDOSPGPDOS                        INTEGER  I000100031R0000
+AZD00000000000000400CDREGLCDREGL                        CHAR     X000030041R1100
+AZD00000000000000500CDSTCOCDSTCO                        CHAR     X000030044R1010
+AZD00000000000000600CDCODECDCODE                        CHAR     X000150047R1000
+AZD00000000000000700TEREGXTEREGX                        CHAR     X000010062R0000
+AZD00000000000000800CDRG01CDRG01                        CHAR     X000030063R0000
+AZD00000000000000900CDRG02CDRG02                        CHAR     X000030066R0000
+AZD00000000000001000CDRG03CDRG03                        CHAR     X000030069R0000
+AZD00000000000001100CDRG04CDRG04                        CHAR     X000030072R0000
+AZD00000000000001200CDRG05CDRG05                        CHAR     X000030075R0000
+AZD00000000000001300CDRG06CDRG06                        CHAR     X000030078R0000
+AZD00000000000001400CDRG07CDRG07                        CHAR     X000030081R0000
+AZD00000000000001500CDRG08CDRG08                        CHAR     X000030084R0000
+AZD00000000000001600CDRG09CDRG09                        CHAR     X000030087R0000
+AZD00000000000001700CDRG10CDRG10                        CHAR     X000030090R0000
+AZD00000000000001800DTDVA DTDVA                         DATE     Q000100093R0000
+AZD00000000000001900DTFVA DTFVA                         DATE     Q000100103R0000
+AZD00000000000002000IDGPRGIDGPRG                        INTEGER  I000100113R0Q00
+DZD000066993000000+000066993FDS+000500000FDSDRCLA1            A                              0001-01-012999-12-31+000500000X
+DZD0000669931*1000+000066993FDS+00050000000001-01-01-00.00.002018-03-06-14.38.02DRC0001-01-01-00.00.00                                                                                                                                                                                                      X
+DZD0000669931*2000+000066993+000500000002018-03-06-14.38.020+00001+000000+000000X
+AZD00000000010100101NUDOSSNUDOSS                        INTEGER  I000100018R0000
+AZD00000000010100201CDLANGCDLANG                        CHAR     X000010028R0000
+AZD00000000010100301NULIGNNULIGN                        INTEGER  I000070029R0000
+AZD00000000010100401SOCDOSSOCDOS                        CHAR     X000030036R0000
+AZD00000000010100501PGPDOSPGPDOS                        INTEGER  I000100039R0000
+AZD00000000010100601LIBLONLIBLON                        CHAR     Y000450049R0000
+AZD00000000010100701LIBABRLIBABR                        CHAR     Y000180094R0000
+AZD00000000010100801LBCMP1LBCMP1                        CHAR     Y002540112R0000
+AZD00000000010100901LBCMP2LBCMP2                        CHAR     Y002540366R0000
+AZD00000000010101001LBCMP3LBCMP3                        CHAR     Y002540620R0000
+AZD00000000010101101BLOB01BLOB01                        CHAR     X000010874R0000
+DZD000066993101000+000066993F+000001FDS+000500000Heures travaillées                           Heures travaillées                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          0X
+DZD0000669931*2000+000066993+000500000012018-03-06-14.38.020+00001+000001+000000X
+AZD00000000012100121NUDOSSNUDOSS                        INTEGER  I000100018R0000
+AZD00000000012100221NULIGNNULIGN                        INTEGER  I000070028R0000
+AZD00000000012100321SOCDOSSOCDOS                        CHAR     X000030035R0000
+AZD00000000012100421PGPDOSPGPDOS                        INTEGER  I000100038R0000
+AZD00000000012100521QLRTYPQLRTYP                        CHAR     X000150048R1000
+AZD00000000012100621QUALIFQUALIF                        CHAR     X000150063R0000
+DZD000066993121000+000066993+000001FDS+000500000CATEGORY       SYSTEM         X
+DZD0000669931*2000+000066993+000500000212018-03-06-14.38.020+00001+000001+000000X
+AZD00000000019R0019RNUDOSSNUDOSS                        INTEGER  I000100018R0000
+AZD00000000019R0029RNULIGNNULIGN                        INTEGER  I000070028R0000
+AZD00000000019R0039RSOCDOSSOCDOS                        CHAR     X000030035R0000
+AZD00000000019R0049RPGPDOSPGPDOS                        INTEGER  I000100038R0000
+AZD00000000019R0059RCDSTDFCDSTDF                        CHAR     X000020048R1000
+AZD00000000019R0069RIDOBJFIDOBJF                        CHAR     X002000050R1000
+AZD00000000019R0079RTYATCHTYATCH                        CHAR     X000010250R1000
+AZD00000000019R0089RCDSTDICDSTDI                        CHAR     X000020251R0000
+AZD00000000019R0099RIDGPRFIDGPRF                        INTEGER  I000100253R0000
+AZD00000000019R0109RTYOBJITYOBJI                        CHAR     X000500263R0000
+AZD00000000019R0119RTYOBJFTYOBJF                        CHAR     X000500313R0000
+AZD00000000019R0129RNATREFNATREF                        CHAR     X000010363R0000
+AZD00000000019R0139RTYPREFTYPREF                        CHAR     X000010364R0000
+DZD00006699319R000+000066993+000001FDS+000500000ZDCOM|DLA|CATEGORY                                                                                                                                                                                         ZD+000000000TPayrollItemFreeFormula-FR                        TQualifierType                                    IAX
+DZD00006699319R000+000066993+000002FDS+000500000ZDCOM|UCA|SYSTEM                                                                                                                                                                                           ZD+000000000TPayrollItemFreeFormula-FR                        TQualifier                                        IAX
+DZD00006699319R000+000066993+000006FDS+000500000ZDFDS|DLB|ZZ                                                                                                                                                                                               ZD+000000000TPayrollItemFreeFormula-FR                        TAgregaPosition                                   IAX
+DZD00006699319R000+000066993+000003FDS+000500000ZDFDS|DRB|101                                                                                                                                                                                              ZD+000000000TPayrollItemFreeFormula-FR                        TAccumulator                                      IAX
+DZD00006699319R000+000066993+000007FDS+000500000ZDFDS|DRC|A02                                                                                                                                                                                              ZD+000000000TPayrollItemFreeFormula-FR                        TAggregate                                        IAX
+DZD00006699319R000+000066993+000008FDS+000500000ZDFDS|DRC|AZ5                                                                                                                                                                                              ZD+000000000TPayrollItemFreeFormula-FR                        TPayrollItem                                      IAX
+DZD00006699319R000+000066993+000009FDS+000500000ZDFDS|DRC|HAB                                                                                                                                                                                              ZD+000000000TPayrollItemFreeFormula-FR                        TPayrollItem                                      IAX
+DZD00006699319R000+000066993+000010FDS+000500000ZDFDS|DRC|HE1                                                                                                                                                                                              ZD+000000000TPayrollItemFreeFormula-FR                        TPayrollItem                                      IAX
+DZD00006699319R000+000066993+000011FDS+000500000ZDFDS|DRC|HEA                                                                                                                                                                                              ZD+000000000TPayrollItemFreeFormula-FR                        TPayrollItem                                      IAX
+DZD00006699319R000+000066993+000012FDS+000500000ZDFDS|DRC|HEB                                                                                                                                                                                              ZD+000000000TPayrollItemFreeFormula-FR                        TPayrollItem                                      IAX
+DZD00006699319R000+000066993+000013FDS+000500000ZDFDS|DRC|J99                                                                                                                                                                                              ZD+000000000TPayrollItemFreeFormula-FR                        TPayrollItem                                      IAX
+DZD00006699319R000+000066993+000014FDS+000500000ZDFDS|DRC|LA3                                                                                                                                                                                              ZD+000000000TPayrollItemFreeFormula-FR                        TPayrollItem                                      IAX
+DZD00006699319R000+000066993+000004FDS+000500000ZDFDS|DRC|XA1                                                                                                                                                                                              ZD+000000000TPayrollItemFreeFormula-FR                        TPayrollItem                                      IAX
+DZD00006699319R000+000066993+000005FDS+000500000ZDFDS|DRD|HORMEN                                                                                                                                                                                           ZD+000000000TPayrollItemFreeFormula-FR                        TKeyword                                          IAX
+DZD0000669931*2000+000066993+0005000009R2018-03-06-14.38.020+00014+000014+000000X
+AZD0000000001AH001AHNUDOSSNUDOSS                        INTEGER  I000100018R0000
+AZD0000000001AH002AHSOCDOSSOCDOS                        CHAR     X000030028R0000
+AZD0000000001AH003AHPGPDOSPGPDOS                        INTEGER  I000100031R0000
+AZD0000000001AH004AHCDTYCACDTYCA                        CHAR     X000020041R0000
+AZD0000000001AH005AHCDREGUCDREGU                        CHAR     X000030043R0000
+AZD0000000001AH006AHCDASSICDASSI                        CHAR     X000030046R0000
+AZD0000000001AH007AHTEMARSTEMARS                        CHAR     X000010049R0000
+AZD0000000001AH008AHMTARSAMTARSA                        DECIMAL  9400100050R0000
+AZD0000000001AH009AHTEMARPTEMARP                        CHAR     X000010060R0000
+AZD0000000001AH010AHMTARPAMTARPA                        DECIMAL  9400100061R0000
+AZD0000000001AH011AHRGCALCRGCALC                        DECIMAL  9000040071R0000
+AZD0000000001AH012AHTEPAISTEPAIS                        CHAR     X000010075R0000
+AZD0000000001AH013AHTENATUTENATU                        CHAR     X000010076R0000
+AZD0000000001AH014AHNUMINDNUMIND                        CHAR     X000010077R0000
+AZD0000000001AH015AHTESOURTESOUR                        CHAR     X000010078R0000
+AZD0000000001AH016AHCDPECACDPECA                        CHAR     X000010079R0000
+AZD0000000001AH017AHTETYPRTETYPR                        CHAR     X000010080R0000
+AZD0000000001AH018AHCDUNPRCDUNPR                        CHAR     X000020081R0000
+AZD0000000001AH019AHTEMRAPTEMRAP                        CHAR     X000010083R0000
+AZD0000000001AH020AHCDRUMACDRUMA                        CHAR     X000030084R0000
+AZD0000000001AH021AHNATMAXNATMAX                        CHAR     X000010087R0000
+AZD0000000001AH022AHCDREGRCDREGR                        CHAR     X000030088R0000
+AZD0000000001AH023AHARRPROARRPRO                        CHAR     X000010091R0000
+AZD0000000001AH024AHRAPSORRAPSOR                        CHAR     X000010092R0000
+AZD0000000001AH025AHRTEGSNRTEGSN                        CHAR     X000010093R0000
+AZD0000000001AH026AHESMULTESMULT                        CHAR     X000010094R0000
+AZD0000000001AH027AHPAYADVPAYADV                        CHAR     X000010095R0000
+AZD0000000001AH028AHPIACALPIACAL                        CHAR     X000010096R0000
+AZD0000000001AH029AHECLBUDECLBUD                        CHAR     X000030097R0000
+AZD0000000001AH030AHIDGROUIDGROU                        CHAR     X000020100R0000
+AZD0000000001AH031AHIDARREIDARRE                        CHAR     X000030102R0000
+AZD0000000001AH032AHFLBNDEFLBNDE                        CHAR     X000010105R0000
+AZD0000000001AH033AHFLAXESFLAXES                        CHAR     X000010106R0000
+AZD0000000001AH034AHCDDSPHCDDSPH                        CHAR     X000030107R0000
+AZD0000000001AH035AHTEMACTTEMACT                        CHAR     X000010110R0000
+AZD0000000001AH036AHTEMRACTEMRAC                        CHAR     X000010111R0000
+AZD0000000001AH037AHTEMCACTEMCAC                        CHAR     X000010112R0000
+AZD0000000001AH038AHTESOMRTESOMR                        CHAR     X000010113R0000
+AZD0000000001AH039AHCDSOMRCDSOMR                        CHAR     X000030114R0000
+AZD0000000001AH040AHTEMCPNTEMCPN                        CHAR     X000010117R0000
+AZD0000000001AH041AHTEMCPSTEMCPS                        CHAR     X000010118R0000
+AZD0000000001AH042AHFODEDFFODEDF                        CHAR     X000010119R0000
+AZD0000000001AH043AHFLTAG1FLTAG1                        CHAR     X000010120R0000
+AZD0000000001AH044AHFLTAG2FLTAG2                        CHAR     X000010121R0000
+AZD0000000001AH045AHIDPLANIDPLAN                        CHAR     X000100122R0000
+AZD0000000001AH046AHFLMQYDFLMQYD                        CHAR     X000010132R0000
+AZD0000000001AH047AHFLQUANFLQUAN                        CHAR     X000010133R0000
+AZD0000000001AH048AHFLBASEFLBASE                        CHAR     X000010134R0000
+AZD0000000001AH049AHFLMNEEFLMNEE                        CHAR     X000010135R0000
+AZD0000000001AH050AHFLMNERFLMNER                        CHAR     X000010136R0000
+AZD0000000001AH051AHFLCALNFLCALN                        CHAR     X000010137R0000
+AZD0000000001AH052AHFLFISCFLFISC                        CHAR     X000010138R0000
+AZD0000000001AH053AHFLLIFEFLLIFE                        CHAR     X000010139R0000
+AZD0000000001AH054AHFLINCPFLINCP                        CHAR     X000010140R0000
+AZD0000000001AH055AHNBPAYPNBPAYP                        DECIMAL  9000050141R0000
+AZD0000000001AH056AHRTEPTARTEPTA                        CHAR     X000010146R0000
+AZD0000000001AH057AHRTENTGRTENTG                        CHAR     X000010147R0000
+AZD0000000001AH058AHRAPRETRAPRET                        CHAR     X000010148R0000
+AZD0000000001AH059AHIDGARNIDGARN                        CHAR     X000060149R0000
+AZD0000000001AH060AHFLTSUPFLTSUP                        CHAR     X000010155R0000
+AZD0000000001AH061AHFLFEESFLFEES                        CHAR     X000010156R0000
+AZD0000000001AH062AHFLMERGFLMERG                        CHAR     X000010157R0000
+AZD0000000001AH063AHSTEP2PSTEP2P                        CHAR     X000010158R0000
+AZD0000000001AH064AHFLTAXCFLTAXC                        CHAR     X000010159R0000
+AZD0000000001AH065AHTAXPAYTAXPAY                        CHAR     X000030160R0000
+DZD0000669931AH000+000066993FDS+00050000079      P+000000100P+000000100+000 1  B0          N1             0   0001   00             00000    +0000  0              X
+DZD0000669931*2000+000066993+000500000AH2018-03-06-14.38.020+00001+000000+000000X
+AZD0000000001AJ001AJNUDOSSNUDOSS                        INTEGER  I000100018R0000
+AZD0000000001AJ002AJNULIGNNULIGN                        INTEGER  I000070028R0000
+AZD0000000001AJ003AJSOCDOSSOCDOS                        CHAR     X000030035R0000
+AZD0000000001AJ004AJPGPDOSPGPDOS                        INTEGER  I000100038R0000
+AZD0000000001AJ005AJCDCUMUCDCUMU                        CHAR     X000030048R1000
+AZD0000000001AJ006AJTECUMUTECUMU                        CHAR     X000010051R1000
+AZD0000000001AJ007AJSICUMUSICUMU                        CHAR     X000010052R1000
+DZD0000669931AJ000+000066993+000001FDS+000500000101M+X
+DZD0000669931*2000+000066993+000500000AJ2018-03-06-14.38.020+00001+000001+000000X
+AZD0000000001AO001AONUDOSSNUDOSS                        INTEGER  I000100018R0000
+AZD0000000001AO002AOSOCDOSSOCDOS                        CHAR     X000030028R0000
+AZD0000000001AO003AOPGPDOSPGPDOS                        INTEGER  I000100031R0000
+AZD0000000001AO004AONUORGANUORGA                        CHAR     X000080041R0000
+AZD0000000001AO005AOCDCOMPCDCOMP                        CHAR     X000080049R0000
+AZD0000000001AO006AOTEJOU1TEJOU1                        CHAR     X000010057R0000
+AZD0000000001AO007AOTEJOU2TEJOU2                        CHAR     X000010058R0000
+AZD0000000001AO008AOTEJOU3TEJOU3                        CHAR     X000010059R0000
+AZD0000000001AO009AOTEJOU4TEJOU4                        CHAR     X000010060R0000
+AZD0000000001AO010AOTEJOU5TEJOU5                        CHAR     X000010061R0000
+AZD0000000001AO011AOTEJOU6TEJOU6                        CHAR     X000010062R0000
+AZD0000000001AO012AOTEJOU7TEJOU7                        CHAR     X000010063R0000
+AZD0000000001AO013AORGPOSJRGPOSJ                        CHAR     X000020064R0000
+AZD0000000001AO014AOTECALPTECALP                        CHAR     X000010066R0000
+AZD0000000001AO015AOTECALMTECALM                        CHAR     X000010067R0000
+AZD0000000001AO016AOTECALITECALI                        CHAR     X000010068R0000
+AZD0000000001AO017AOTECALQTECALQ                        CHAR     X000010069R0000
+AZD0000000001AO018AOTECALDTECALD                        CHAR     X000010070R0000
+AZD0000000001AO019AOTECALBTECALB                        CHAR     X000010071R0000
+AZD0000000001AO020AOTECALTTECALT                        CHAR     X000010072R0000
+AZD0000000001AO021AOTEBULQTEBULQ                        CHAR     X000010073R0000
+AZD0000000001AO022AOTEBULDTEBULD                        DECIMAL  9000020074R0000
+AZD0000000001AO023AOTEBULTTEBULT                        CHAR     X000010076R0000
+AZD0000000001AO024AOTEBULMTEBULM                        CHAR     X000010077R0000
+AZD0000000001AO025AORGPOSBRGPOSB                        CHAR     X000020078R0000
+AZD0000000001AO026AORGPOSARGPOSA                        CHAR     X000020080R0000
+AZD0000000001AO027AOTEAPRPTEAPRP                        CHAR     X000010082R0000
+AZD0000000001AO028AOTEAPARTEAPAR                        CHAR     X000010083R0000
+AZD0000000001AO029AOTEZY8KTEZY8K                        CHAR     X000010084R0000
+AZD0000000001AO030AORGPOSERGPOSE                        CHAR     X000020085R0000
+AZD0000000001AO031AOTEMONTTEMONT                        CHAR     X000010087R0000
+AZD0000000001AO032AOTOLERATOLERA                        DECIMAL  N200060088R0000
+AZD0000000001AO033AOTECOMPTECOMP                        CHAR     X000010094R0000
+AZD0000000001AO034AOIDFRPYIDFRPY                        CHAR     X000080095R0000
+AZD0000000001AO035AOMEMO01MEMO01                        CHAR     X000150103R0000
+AZD0000000001AO036AOMEMO02MEMO02                        CHAR     X000150118R0000
+AZD0000000001AO037AOMEMO03MEMO03                        CHAR     X000080133R0000
+AZD0000000001AO038AOMEMO04MEMO04                        CHAR     X000080141R0000
+AZD0000000001AO039AOMEMO05MEMO05                        CHAR     X000050149R0000
+AZD0000000001AO040AOMEMO06MEMO06                        CHAR     X000050154R0000
+AZD0000000001AO041AOMEMO07MEMO07                        CHAR     X000050159R0000
+AZD0000000001AO042AOMEMO08MEMO08                        CHAR     X000050164R0000
+AZD0000000001AO043AOMEMO09MEMO09                        CHAR     X000030169R0000
+AZD0000000001AO044AOMEMO10MEMO10                        CHAR     X000030172R0000
+AZD0000000001AO045AOMEMO11MEMO11                        CHAR     X000030175R0000
+AZD0000000001AO046AOTEEDITTEEDIT                        CHAR     X000010178R0000
+AZD0000000001AO047AOFLBO10FLBO10                        CHAR     X000010179R0000
+AZD0000000001AO048AOFLBO11FLBO11                        CHAR     X000010180R0000
+AZD0000000001AO049AOFLBO12FLBO12                        CHAR     X000010181R0000
+AZD0000000001AO050AOFLCO12FLCO12                        CHAR     X000010182R0000
+AZD0000000001AO051AOFLSQW1FLSQW1                        CHAR     X000010183R0000
+AZD0000000001AO052AOFLSQW2FLSQW2                        CHAR     X000010184R0000
+AZD0000000001AO053AOPOSAGRPOSAGR                        CHAR     X000020185R0000
+DZD0000669931AO000+000066993FDS+000500000                                Q+1TMZZ  001  X+000001                                                                                   1      ZZX
+DZD0000669931*2000+000066993+000500000AO2018-03-06-14.38.020+00001+000000+000000X
+AZD0000000001CP001CPNUDOSSNUDOSS                        INTEGER  I000100018R0000
+AZD0000000001CP002CPNULIGNNULIGN                        INTEGER  I000070028R0000
+AZD0000000001CP003CPNULIGSNULIGS                        INTEGER  I000070035R0000
+AZD0000000001CP004CPNULIGPNULIGP                        INTEGER  I000070042R0000
+AZD0000000001CP005CPTEACTITEACTI                        CHAR     X000010049R0000
+AZD0000000001CP006CPSOCDOSSOCDOS                        CHAR     X000030050R0000
+AZD0000000001CP007CPPGPDOSPGPDOS                        INTEGER  I000100053R0000
+AZD0000000001CP008CPDATXXXDATXXX                        DATE     Q000100063R0000
+AZD0000000001CP009CPDAEFF DAEFF                         DATE     Q000100073R1000
+AZD0000000001CP010CPCDTYCACDTYCA                        CHAR     X000020083R0000
+AZD0000000001CP011CPCDASSICDASSI                        CHAR     X000030085R0000
+AZD0000000001CP012CPCDREGUCDREGU                        CHAR     X000030088R0000
+AZD0000000001CP013CPNBEN01NBEN01                        DECIMAL  9000040091R0000
+AZD0000000001CP014CPNBEN02NBEN02                        DECIMAL  9000040095R0000
+AZD0000000001CP015CPNBEN03NBEN03                        DECIMAL  9000040099R0000
+AZD0000000001CP016CPCDMOT1CDMOT1                        CHAR     X000080103R0000
+AZD0000000001CP017CPTYENT1TYENT1                        CHAR     X000010111R0000
+AZD0000000001CP018CPCDENT1CDENT1                        CHAR     X000030112R0000
+AZD0000000001CP019CPMONTA1MONTA1                        DECIMAL  N300120115R0000
+AZD0000000001CP020CPCDMOT2CDMOT2                        CHAR     X000080127R0000
+AZD0000000001CP021CPTYENT2TYENT2                        CHAR     X000010135R0000
+AZD0000000001CP022CPCDENT2CDENT2                        CHAR     X000030136R0000
+AZD0000000001CP023CPMONTA2MONTA2                        DECIMAL  N300120139R0000
+AZD0000000001CP024CPCDMOT3CDMOT3                        CHAR     X000080151R0000
+AZD0000000001CP025CPTYENT3TYENT3                        CHAR     X000010159R0000
+AZD0000000001CP026CPCDENT3CDENT3                        CHAR     X000030160R0000
+AZD0000000001CP027CPMONTA3MONTA3                        DECIMAL  N300120163R0000
+AZD0000000001CP028CPTEZERMTEZERM                        CHAR     X000010175R0000
+AZD0000000001CP029CPCDMOT4CDMOT4                        CHAR     X000080176R0000
+AZD0000000001CP030CPTYENT4TYENT4                        CHAR     X000010184R0000
+AZD0000000001CP031CPCDENT4CDENT4                        CHAR     X000030185R0000
+AZD0000000001CP032CPMONTA4MONTA4                        DECIMAL  N300120188R0000
+AZD0000000001CP033CPCDMOT5CDMOT5                        CHAR     X000080200R0000
+AZD0000000001CP034CPTYENT5TYENT5                        CHAR     X000010208R0000
+AZD0000000001CP035CPCDENT5CDENT5                        CHAR     X000030209R0000
+AZD0000000001CP036CPMONTA5MONTA5                        DECIMAL  N300120212R0000
+AZD0000000001CP037CPCDMOT6CDMOT6                        CHAR     X000080224R0000
+AZD0000000001CP038CPTYENT6TYENT6                        CHAR     X000010232R0000
+AZD0000000001CP039CPCDENT6CDENT6                        CHAR     X000030233R0000
+AZD0000000001CP040CPMONTA6MONTA6                        DECIMAL  N300120236R0000
+AZD0000000001CP041CPCDMOT7CDMOT7                        CHAR     X000080248R0000
+AZD0000000001CP042CPTYENT7TYENT7                        CHAR     X000010256R0000
+AZD0000000001CP043CPCDENT7CDENT7                        CHAR     X000030257R0000
+AZD0000000001CP044CPMONTA7MONTA7                        DECIMAL  N300120260R0000
+AZD0000000001CP045CPCDMOT8CDMOT8                        CHAR     X000080272R0000
+AZD0000000001CP046CPTYENT8TYENT8                        CHAR     X000010280R0000
+AZD0000000001CP047CPCDENT8CDENT8                        CHAR     X000030281R0000
+AZD0000000001CP048CPMONTA8MONTA8                        DECIMAL  N300120284R0000
+AZD0000000001CP049CPCDMOT9CDMOT9                        CHAR     X000080296R0000
+AZD0000000001CP050CPTYENT9TYENT9                        CHAR     X000010304R0000
+AZD0000000001CP051CPCDENT9CDENT9                        CHAR     X000030305R0000
+AZD0000000001CP052CPMONTA9MONTA9                        DECIMAL  N300120308R0000
+AZD0000000001CP053CPCDMO10CDMO10                        CHAR     X000080320R0000
+AZD0000000001CP054CPTYEN10TYEN10                        CHAR     X000010328R0000
+AZD0000000001CP055CPCDEN10CDEN10                        CHAR     X000030329R0000
+AZD0000000001CP056CPMONT10MONT10                        DECIMAL  N300120332R0000
+AZD0000000001CP057CPFORLIBFORLIB                        CHAR     X000570344R0000
+AZD0000000001CP058CPLICON LICON                         VARCHAR  V006340401R0000
+DZD0000669931CP000+000066993+000001+000002+0000003FDS+0005000002010-01-012008-01-0179      +000+000+000            +00000000000            +00000000000            +00000000000             +00000000000            +00000000000            +00000000000            +00000000000            +00000000000            +00000000000            +00000000000((HORMEN - RHAB+ RAZ5) > 0) * (1 - RXA1/RXA1) + RXA1     0000                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      X
+DZD0000669931CP000+000066993+000002+000004+0000013FDS+0005000002011-04-012010-01-0179      +000+000+000            +00000000000            +00000000000            +00000000000             +00000000000            +00000000000            +00000000000            +00000000000            +00000000000            +00000000000        RLA3+000000000000                                                        0024FA02 <= 0.1 ET FA02 >= 0                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              X
+DZD0000669931CP000+000066993+000004+000005+0000023FDS+0005000002014-10-012011-04-0179      +000+000+000            +00000000000            +00000000000            +00000000000             +00000000000            +00000000000            +00000000000            +00000000000            +00000000000            +00000000000        RLA3+000000000000                                                        0012RJ99 <= RHE1                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          X
+DZD0000669931CP000+000066993+000005+000007+0000043FDS+0005000002018-03-012014-10-0179      +000+000+000            +00000000000            +00000000000            +00000000000             +00000000000            +00000000000            +00000000000            +00000000000            +00000000000            +00000000000        RLA3+000000000000                                                        0026RJ99 <= RHE1 OU RJ99<=RHEA                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            X
+DZD0000669931CP000+000066993+000007+000000+0000053FDS+0005000002999-12-312018-03-0179      +000+000+000            +00000000000            +00000000000            +00000000000             +00000000000            +00000000000            +00000000000            +00000000000            +00000000000            +00000000000        RLA3+000000000000                                                        0026RJ99 <= RHEB OU RJ99<=RHEA                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            X
+DZD0000669931*2000+000066993+000500000CP2018-03-06-14.38.020+00005+000007+000007X
+DZD000075606000000+000075606FDS+000500000FDSDRCHE3            A                              0001-01-012999-12-31+000500000X
+DZD0000756061*1000+000075606FDS+00050000000001-01-01-00.00.002018-03-06-14.38.02DRC0001-01-01-00.00.00                                                                                                                                                                                                      X
+DZD0000756061*2000+000075606+000500000002018-03-06-14.38.020+00001+000000+000000X
+DZD000075606101000+000075606F+000001FDS+000500000Heures non présence si absence E/S Proratisé H. non présen Pror                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          0X
+DZD0000756061*2000+000075606+000500000012018-03-06-14.38.020+00001+000001+000000X
+DZD00007560619R000+000075606+000001FDS+000500000ZDFDS|DRC|HE1                                                                                                                                                                                              ZD+000000000TPayrollItemFreeFormula-FR                        TPayrollItem                                      IAX
+DZD00007560619R000+000075606+000002FDS+000500000ZDFDS|DRC|HEA                                                                                                                                                                                              ZD+000000000TPayrollItemFreeFormula-FR                        TPayrollItem                                      IAX
+DZD00007560619R000+000075606+000007FDS+000500000ZDFDS|DRC|HEB                                                                                                                                                                                              ZD+000000000TPayrollItemFreeFormula-FR                        TPayrollItem                                      IAX
+DZD00007560619R000+000075606+000004FDS+000500000ZDFDS|DRC|HMT                                                                                                                                                                                              ZD+000000000TPayrollItemFreeFormula-FR                        TPayrollItem                                      IAX
+DZD00007560619R000+000075606+000005FDS+000500000ZDFDS|DRC|JBA                                                                                                                                                                                              ZD+000000000TPayrollItemFreeFormula-FR                        TPayrollItem                                      IAX
+DZD00007560619R000+000075606+000006FDS+000500000ZDFDS|DSB|98                                                                                                                                                                                               ZD+000000000TPayrollItemFreeFormula-FR                        TUnit                                             IAX
+DZD0000756061*2000+000075606+0005000009R2018-03-06-14.38.020+00006+000007+000000X
+DZD0000756061AH000+000075606FDS+00050000079      P+000000100P+000000100+000 1 1C0          N0             0   0001   00             00000    +0000  0              X
+DZD0000756061*2000+000075606+000500000AH2018-03-06-14.38.020+00001+000000+000000X
+DZD0000756061AO000+000075606FDS+000500000                                Q+1TM    000  X+000001                                                                                   1        X
+DZD0000756061*2000+000075606+000500000AO2018-03-06-14.38.020+00001+000000+000000X
+DZD0000756061CP000+000075606+000001+000002+0000003FDS+0005000002014-10-012011-01-0179      +000+000+000            +00000000000            +00000000000            +00000000000             +00000000000            +00000000000            +00000000000            +00000000000            +00000000000            +00000000000            +00000000000RHMT - (J98 * RJBA) + (RHE1 * RJBA)                      0000                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      X
+DZD0000756061CP000+000075606+000002+000004+0000013FDS+0005000002018-03-012014-10-0179      +000+000+000            +00000000000            +00000000000            +00000000000             +00000000000            +00000000000            +00000000000            +00000000000            +00000000000            +00000000000            +00000000000 RHMT - (J98 * RJBA) + (RHE1 * RJBA) + RHEA              0000                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      X
+DZD0000756061CP000+000075606+000004+000000+0000023FDS+0005000002999-12-312018-03-0179      +000+000+000            +00000000000            +00000000000            +00000000000             +00000000000            +00000000000            +00000000000            +00000000000            +00000000000            +00000000000            +00000000000 RHMT - (J98 * RJBA) + (RHEB * RJBA) + RHEA              0000                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      X
+DZD0000756061*2000+000075606+000500000CP2018-03-06-14.38.020+00003+000004+000004X
+DZD000075608000000+000075608FDS+000500000FDSDRCHE4            A                              0001-01-012999-12-31+000500000X
+DZD0000756081*1000+000075608FDS+00050000000001-01-01-00.00.002018-03-06-14.38.02DRC0001-01-01-00.00.00                                                                                                                                                                                                      X
+DZD0000756081*2000+000075608+000500000002018-03-06-14.38.020+00001+000000+000000X
+DZD000075608101000+000075608F+000001FDS+000500000Heures d'absence entrée / sortie Proratisé   Heures abs E/S Pro                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          0X
+DZD0000756081*2000+000075608+000500000012018-03-06-14.38.020+00001+000001+000000X
+DZD00007560819R000+000075608+000001FDS+000500000ZDFDS|DRC|HE1                                                                                                                                                                                              ZD+000000000TPayrollItemFreeFormula-FR                        TPayrollItem                                      IAX
+DZD00007560819R000+000075608+000002FDS+000500000ZDFDS|DRC|HEA                                                                                                                                                                                              ZD+000000000TPayrollItemFreeFormula-FR                        TPayrollItem                                      IAX
+DZD00007560819R000+000075608+000003FDS+000500000ZDFDS|DRC|HEB                                                                                                                                                                                              ZD+000000000TPayrollItemFreeFormula-FR                        TPayrollItem                                      IAX
+DZD00007560819R000+000075608+000004FDS+000500000ZDFDS|DRC|JBA                                                                                                                                                                                              ZD+000000000TPayrollItemFreeFormula-FR                        TPayrollItem                                      IAX
+DZD0000756081*2000+000075608+0005000009R2018-03-06-14.38.020+00004+000004+000000X
+DZD0000756081AH000+000075608FDS+00050000079      P+000000100P+000000100+000 1 1C0          N0             0   0001   00             00000    +0000  0              X
+DZD0000756081*2000+000075608+000500000AH2018-03-06-14.38.020+00001+000000+000000X
+DZD0000756081AO000+000075608FDS+000500000                                Q+1TM    000  X+000001                                                                                   1        X
+DZD0000756081*2000+000075608+000500000AO2018-03-06-14.38.020+00001+000000+000000X
+DZD0000756081CP000+000075608+000001+000002+0000003FDS+0005000002014-10-012011-01-0179      +000+000+000            +00000000000            +00000000000            +00000000000             +00000000000            +00000000000            +00000000000            +00000000000            +00000000000            +00000000000            +00000000000RHE1 * RJBA                                              0000                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      X
+DZD0000756081CP000+000075608+000002+000003+0000013FDS+0005000002018-03-012014-10-0179      +000+000+000            +00000000000            +00000000000            +00000000000             +00000000000            +00000000000            +00000000000            +00000000000            +00000000000            +00000000000            +00000000000(RHE1 * RJBA ) + RHEA                                    0000                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      X
+DZD0000756081CP000+000075608+000003+000000+0000023FDS+0005000002999-12-312018-03-0179      +000+000+000            +00000000000            +00000000000            +00000000000             +00000000000            +00000000000            +00000000000            +00000000000            +00000000000            +00000000000            +00000000000(RHEB * RJBA ) + RHEA                                    0000                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      X
+DZD0000756081*2000+000075608+000500000CP2018-03-06-14.38.020+00003+000003+000003X
+DZD000080173000000+000080173FDS+000500000FDSDRCLA5            A                              0001-01-012999-12-31+000500000X
+DZD0000801731*1000+000080173FDS+00050000000001-01-01-00.00.002018-03-06-14.38.02DRC0001-01-01-00.00.00                                                                                                                                                                                                      X
+DZD0000801731*2000+000080173+000500000002018-03-06-14.38.020+00001+000000+000000X
+DZD000080173101000+000080173F+000001FDS+000500000Heures travaillées                           Heures travaillées                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          0X
+DZD0000801731*2000+000080173+000500000012018-03-06-14.38.020+00001+000001+000000X
+DZD00008017319R000+000080173+000001FDS+000500000ZDFDS|DRC|AZ5                                                                                                                                                                                              ZD+000000000TPayrollItemFreeFormula-FR                        TPayrollItem                                      IAX
+DZD00008017319R000+000080173+000002FDS+000500000ZDFDS|DRC|AZ6                                                                                                                                                                                              ZD+000000000TPayrollItemFreeFormula-FR                        TPayrollItem                                      IAX
+DZD00008017319R000+000080173+000003FDS+000500000ZDFDS|DRC|HAC                                                                                                                                                                                              ZD+000000000TPayrollItemFreeFormula-FR                        TPayrollItem                                      IAX
+DZD00008017319R000+000080173+000004FDS+000500000ZDFDS|DRC|HE1                                                                                                                                                                                              ZD+000000000TPayrollItemFreeFormula-FR                        TPayrollItem                                      IAX
+DZD00008017319R000+000080173+000005FDS+000500000ZDFDS|DRC|HEB                                                                                                                                                                                              ZD+000000000TPayrollItemFreeFormula-FR                        TPayrollItem                                      IAX
+DZD00008017319R000+000080173+000006FDS+000500000ZDFDS|DRC|HMT                                                                                                                                                                                              ZD+000000000TPayrollItemFreeFormula-FR                        TPayrollItem                                      IAX
+DZD00008017319R000+000080173+000007FDS+000500000ZDFDS|DRC|HN0                                                                                                                                                                                              ZD+000000000TPayrollItemFreeFormula-FR                        TPayrollItem                                      IAX
+DZD00008017319R000+000080173+000008FDS+000500000ZDFDS|DRC|HNA                                                                                                                                                                                              ZD+000000000TPayrollItemFreeFormula-FR                        TPayrollItem                                      IAX
+DZD00008017319R000+000080173+000009FDS+000500000ZDFDS|DRC|J04                                                                                                                                                                                              ZD+000000000TPayrollItemFreeFormula-FR                        TPayrollItem                                      IAX
+DZD00008017319R000+000080173+000010FDS+000500000ZDFDS|DRC|LA0                                                                                                                                                                                              ZD+000000000TPayrollItemFreeFormula-FR                        TPayrollItem                                      IAX
+DZD00008017319R000+000080173+000011FDS+000500000ZDFDS|DRC|LA6                                                                                                                                                                                              ZD+000000000TPayrollItemFreeFormula-FR                        TPayrollItem                                      IAX
+DZD00008017319R000+000080173+000012FDS+000500000ZDFDS|DRC|T98                                                                                                                                                                                              ZD+000000000TPayrollItemFreeFormula-FR                        TPayrollItem                                      IAX
+DZD00008017319R000+000080173+000013FDS+000500000ZDFDS|DRC|U99                                                                                                                                                                                              ZD+000000000TPayrollItemFreeFormula-FR                        TPayrollItem                                      IAX
+DZD0000801731*2000+000080173+0005000009R2018-03-06-14.38.020+00013+000013+000000X
+DZD0000801731AH000+000080173FDS+00050000079      P+000000100P+000000100+000 1  B0          N1             0   0001   00             00000    +0000  0              X
+DZD0000801731*2000+000080173+000500000AH2018-03-06-14.38.020+00001+000000+000000X
+DZD0000801731AO000+000080173FDS+000500000                                Q+1TM    000  X+000001                                                                                   1        X
+DZD0000801731*2000+000080173+000500000AO2018-03-06-14.38.020+00001+000000+000000X
+mmDZD0000801731CP000+000080173+000002+000003+0000013FDS+0005000002015-09-012014-10-0179      +000+000+000            +00000000000            +00000000000            +00000000000             +00000000000            +00000000000            +00000000000            +00000000000            +00000000000            +00000000000            +00000000000((RLA6-RHAC)+RAZ5+RAZ6+RHN0) > 0                         0011RU99 > RHE1                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           X
+
++000080173+000003+000004+0000023FDS+0005000002017-04-012015-09-0179      +000+000+000            +00000000000            +00000000000            +00000000000             +00000000000            +00000000000            +00000000000            +00000000000            +00000000000            +00000000000            +00000000000((RLA0-RHAC)+RAZ5+RAZ6+RHN0) > 0                         0011RU99 > RHE1                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           X
+DZD0000801731CP000+000080173+000004+000005+0000033FDS+0005000002018-03-012017-04-0179      +000+000+000            +00000000000            +00000000000            +00000000000             +00000000000            +00000000000            +00000000000            +00000000000            +00000000000            +00000000000            +00000000000((RLA0-RHAC)+RAZ5+RAZ6+RHN0+RHNA) > 0                    0011RU99 > RHE1                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           X
+DZD0000801731CP000+000080173+000005+000000+0000043FDS+0005000002999-12-312018-03-0179      +000+000+000            +00000000000            +00000000000            +00000000000             +00000000000            +00000000000            +00000000000            +00000000000            +00000000000            +00000000000            +00000000000((RLA0-RHAC)+RAZ5+RAZ6+RHN0+RHNA) > 0                    0011RU99 > RHEB                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           X
+DZD0000801731*2000+000080173+000500000CP2018-03-06-14.38.020+00005+000005+000005X
+DZD000100328000000+000100328FDS+000500000FDSDRCHEB            A                              0001-01-012999-12-31+000500000X
+DZD0001003281*1000+000100328FDS+00050000000001-01-01-00.00.002018-03-06-14.38.02DRC0001-01-01-00.00.00                                                                                                                                                                                                      X
+DZD0001003281*2000+000100328+000500000002018-03-06-14.38.020+00001+000000+000000X
+DZD000100328101000+000100328F+000001FDS+000500000Heures d'absence entrée / sortie ETP         Heures absence ETP                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          0X
+DZD0001003281*2000+000100328+000500000012018-03-06-14.38.020+00001+000001+000000X
+AZD00000000010800108NUDOSSNUDOSS                        INTEGER  I000100018R0000
+AZD00000000010800208NULIGNNULIGN                        INTEGER  I000070028R0000
+AZD00000000010800308SOCDOSSOCDOS                        CHAR     X000030035R0000
+AZD00000000010800408PGPDOSPGPDOS                        INTEGER  I000100038R0000
+AZD00000000010800508IDLG00IDLG00                        CHAR     X000020048R1000
+AZD00000000010800608IDLO00IDLO00                        CHAR     X000020050R1000
+AZD00000000010800708TYCOMTTYCOMT                        CHAR     X000010052R1000
+AZD00000000010800808NUMORDNUMORD                        DECIMAL  9000030053R1000
+AZD00000000010800908CDLANCCDLANC                        CHAR     X000010056R0000
+AZD00000000010801008CDSTATCDSTAT                        CHAR     X000010057R0000
+AZD00000000010801108TIMODITIMODI                        TIMESTAMPH000190058R0000
+AZD00000000010801208TXCOMMTXCOMM                        VARCHAR  V035040077R0000
+DZD000100328108000+000100328+000001FDS+000500000FRFRF+01H 2018-03-02-12.18.310268<p Class=F7>Cette rubrique est égale à l'horaire mensuel théorique (rubrique @DRCHMT), diminué du nombre réel d'heures du mois (variable J98), augmenté du nombre d'heures d'absence (rubrique @DRCHE1). Cette rubrique n'est plus déclenchée avec la mise en place du CSCP.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                X
+DZD0001003281*2000+000100328+000500000082018-03-06-14.38.020+00001+000001+000000X
+DZD000100328121000+000100328+000001FDS+000500000CATEGORY       BRUT           X
+DZD0001003281*2000+000100328+000500000212018-03-06-14.38.020+00001+000001+000000X
+DZD00010032819R000+000100328+000001FDS+000500000ZDCOM|DLA|CATEGORY                                                                                                                                                                                         ZD+000000000TPayrollItemFreeFormula-FR                        TQualifierType                                    IAX
+DZD00010032819R000+000100328+000002FDS+000500000ZDCOM|UCA|BRUT                                                                                                                                                                                             ZD+000000000TPayrollItemFreeFormula-FR                        TQualifier                                        IAX
+DZD00010032819R000+000100328+000006FDS+000500000ZDFDS|DRC|EPA                                                                                                                                                                                              ZD+000000000TPayrollItemFreeFormula-FR                        TPayrollItem                                      IAX
+DZD00010032819R000+000100328+000003FDS+000500000ZDFDS|DRC|HE1                                                                                                                                                                                              ZD+000000000TPayrollItemFreeFormula-FR                        TPayrollItem                                      IAX
+DZD0001003281*2000+000100328+0005000009R2018-03-06-14.38.020+00004+000006+000000X
+DZD0001003281AH000+000100328FDS+00050000079      P+000000100P+000000100+000 1 1C0          N0             0   0001   00             00000    +0000  0              X
+DZD0001003281*2000+000100328+000500000AH2018-03-06-14.38.020+00001+000000+000000X
+DZD0001003281AO000+000100328FDS+000500000                                Q+1TM    000  X+000001                                                                                   1        X
+DZD0001003281*2000+000100328+000500000AO2018-03-06-14.38.020+00001+000000+000000X
+DZD0001003281CP000+000100328+000001+000000+0000003FDS+0005000002999-12-312018-03-0179      +000+000+000            +00000000000            +00000000000            +00000000000             +00000000000            +00000000000            +00000000000            +00000000000            +00000000000            +00000000000            +00000000000(100-REPA)/100*RHE1                                      0000                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      X
+DZD0001003281*2000+000100328+000500000CP2018-03-06-14.38.020+00001+000001+000001X
